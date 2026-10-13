@@ -35,8 +35,3 @@ int_ma_convert_first = int(string_first)
 float_ma_convert_first = float(string_first)
 print(int_ma_convert_first)
 print(float_ma_convert_first)
-
-int_ma_convert_second = int(string_second)
-float_ma_convert_second = float(string_second)
-print(int_ma_convert_second)
-print(float_ma_convert_second)
